@@ -9,7 +9,7 @@
 ---
 
 ### 🔭 About me
-
+- 🙋 You can also call me Pete 
 - Physics / astronomy student based in NTHU, Taiwan 🇹🇼
 - 🌌 Research: AGN host galaxy morphology 
 - 🏎️ Formula Student-style VD team: tyre modelling (Pacejka) and slip-ratio traction control
